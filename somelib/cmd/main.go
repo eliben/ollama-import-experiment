@@ -9,6 +9,8 @@ import (
 	"github.com/jmorganca/ollama/api"
 )
 
+// This should work just fine - there's only one "api" package here, from
+// jmorganca/ollama/api - it's used by MakeRequest and here.
 func main() {
 	client, err := api.ClientFromEnvironment()
 	if err != nil {

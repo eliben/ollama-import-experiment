@@ -9,6 +9,10 @@ import (
 	"github.com/ollama/ollama/api"
 )
 
+// This will not work because somelib.MakeRequest returns
+// *github.com/jmorganca/ollama/api.GenerateRequest, which
+// is a different type for the Go compiler from
+// *github.com/ollama/ollama/api.GenerateResponse
 func main() {
 	client, err := api.ClientFromEnvironment()
 	if err != nil {
