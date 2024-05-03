@@ -1,5 +1,9 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/eliben/ollama-import-experiment/somelib v0.0.0-20240503175516-cf1df4823428 h1:CvnaQqicPXuciorVlnrnHmZMZBYdeN2PNOOiAinoBAU=
+github.com/eliben/ollama-import-experiment/somelib v0.0.0-20240503175516-cf1df4823428/go.mod h1:MRzIlAzCcvY/t24mkFcdf6cpWO8/wxjIS/Jt76Amx2Y=
+github.com/jmorganca/ollama v0.1.29 h1:B3+eUC2j08lgokFuem6OeVNuS5CMWGf7GrwWtG//Qy0=
+github.com/jmorganca/ollama v0.1.29/go.mod h1:vdwUUQJNON2ylhJSubgtrJXNGJgDKCCHUJN3rnb63P0=
 github.com/ollama/ollama v0.1.33 h1:Kb2bK4YxLJrRPNOaznwIYUoRYnT7AFOZioJKjreCM6E=
 github.com/ollama/ollama v0.1.33/go.mod h1:u9Bo9/pxhGe2YiL1I/ePNRTH0Ik5U3B2C/i2EYp1lZk=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
